@@ -4,7 +4,6 @@ This library provides commonly used UI elements such as buttons, toggles, slider
 
 ![Image Of Turtle Lib](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gyazo.com%2Fb99b087c7482e8376f69a4ca7a803924.png)
 ## Image by Turtle Lib
-## Made with Yetahub 
 
 # Features
 ```lua
