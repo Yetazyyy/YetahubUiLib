@@ -5,7 +5,6 @@ A lightweight and customizable UI Library for Roblox (Lua) designed to simplify 
 This library provides commonly used UI elements such as buttons, toggles, sliders, dropdowns, and more — all in an easy-to-use API.
 
 ![Image Of Turtle Lib](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gyazo.com%2Fb99b087c7482e8376f69a4ca7a803924.png)
-# Image by TurtleLib
 
 **Documentation**:
 
