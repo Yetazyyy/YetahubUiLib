@@ -63,7 +63,7 @@ Add a label:
 ```lua
 -- Text, color: setting color to true will give it a rainbow effect!
 
-window:Label("Credits to Intrer#0421", Color3.fromRGB(127, 143, 166))
+window:Label("Credits to YetaHub", Color3.fromRGB(127, 143, 166))
 ```
 
 Add an input box (aka textbox):
