@@ -10,7 +10,7 @@ This library provides commonly used UI elements such as buttons, toggles, slider
 
 Load library:
 ```lua
-local library = loadstring(game:HttpGet(""))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Yetazyyy/YetahubLib/main/source.lua"))()
 ```
 
 Add windows:
