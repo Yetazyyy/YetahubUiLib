@@ -7,7 +7,6 @@ local pastSliders = {}
 local dropdowns = {}
 local dropdownSizes = {}
 local destroyed
-
 local colorPickers = {}
 
 if game.CoreGui:FindFirstChild('YetahubUiLib') then
